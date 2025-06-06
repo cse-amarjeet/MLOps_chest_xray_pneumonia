@@ -1,0 +1,9 @@
+# params.yaml
+data_ingestion:
+  kaggle_dataset_name: "paultimothymooney/chest-xray-pneumonia"
+  path_to_store_data: "/home/amar/amar/MLOps_project/MLOps_chest_xray_pneumonia/data/raw"
+  data_folder_name: chest_xray
+  
+
+feature_engineering:
+  max_features: 50
